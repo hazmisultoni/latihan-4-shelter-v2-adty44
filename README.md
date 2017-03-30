@@ -39,3 +39,5 @@ Selamat mengerjakan!
 
 Note: Originalitas karya kalian menjadi nilai utama, pastikan tidak ada plagiasi. Gunakan ilmu
 yang telah Anda pelajari untuk membuat logika dalam tugas ini
+## Nama : Aditya Irvan Kurniawan
+## NIM  : 165150200111122
